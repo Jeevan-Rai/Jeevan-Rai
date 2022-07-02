@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan P Rai</h1>
 <h3 align="center">An enthusiastic programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://content.techgig.com/photo/77087595/Guide-How-to-build-career-as-a-programmer-without-college-degree.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan-rai&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan-rai" /> </p>
 
