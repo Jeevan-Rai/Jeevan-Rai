@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan P Rai</h1>
-<h3 align="center">🤠 An enthusiastic programmer with problem solving skills!! 👨‍💻</h3>
+<h3 align="center"> An enthusiastic programmer with problem solving skills!! 👨‍💻</h3>
 <hr>
 <h2> 🤓 About Me </h2>
 
