@@ -24,6 +24,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan-rai&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan-rai" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan-rai" alt="jeevan-rai" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jeevanr96681543" target="blank"><img src="https://img.shields.io/twitter/follow/jeevanr96681543?logo=twitter&style=for-the-badge" alt="jeevanr96681543" /></a> </p>
 
