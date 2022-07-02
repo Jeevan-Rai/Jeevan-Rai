@@ -3,7 +3,6 @@
 <hr>
 <h2> 🤓 About Me </h2>
 
-<h2> About Me </h2>
 - 🔭 I’m currently working on a website for KVG COLLEGE OF ENGINEERING [kvgengg.com](http://www.kvgengg.com)
 
 - 👨‍💻 All of my projects are available at [https://dhyantd.github.io](https://dhyantd.github.io)
