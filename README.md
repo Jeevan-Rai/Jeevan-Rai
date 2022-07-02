@@ -2,7 +2,6 @@
 <h3 align="center">🤠 An enthusiastic programmer with problem solving skills!! 👨‍💻</h3>
 <hr>
 <h2> 🤓 About Me </h2>
-- 🌱 I’m currently learning **php laravel**
 
 - 🔭 I’m currently working on [kvgengg.com](http://www.kvgengg.com)
 
@@ -11,6 +10,8 @@
 - 💬 Ask me about **python, flask, web/App development, c++**
 
 - 📫 How to reach me **jeevanraisonangeri@gmail.com**
+
+- 🌱 I’m currently learning **php laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
