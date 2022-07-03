@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a website for KVG COLLEGE OF ENGINEERING [kvgengg.com](http://www.kvgengg.com)
 
-- 👨‍💻 All of my projects are available at [https://dhyantd.github.io](https://dhyantd.github.io)
+- 👨‍💻 All of my projects are available at [https://Jeevan-Rai.github.io](https://dhyantd.github.io)
 
 - 💬 Ask me about **Python,Flask,Web/App development, C++**
 
